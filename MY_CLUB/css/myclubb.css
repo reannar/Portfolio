@@ -1,0 +1,43 @@
+body{
+  /* color:black; */
+  background-color: lightblue;
+  background-image: url("images/c12.jpg");
+}
+  /* background-image: "images/bg.jpg"; */
+
+    }
+button{
+      padding: 50px 50px;
+}
+
+}
+Home{
+  display: inline-block;
+
+}
+    h1 {
+        font-size: 50px;
+        font-family:'Bungee', cursive;
+
+    }
+
+    h2 {
+        position: relative;
+        top: -70px
+        font-size: 15px;
+
+    }
+
+    h3 {
+        font-size: 20px;
+
+    }
+
+    h4 {
+      font-size: 10px
+
+    }
+
+    p1{
+      font-family:'Lilita One', cursive;
+    }
