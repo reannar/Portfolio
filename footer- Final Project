@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
+
+  <style>
+  * {
+      box-sizing: border-box;
+  }
+
+  /* Create three equal columns that floats next to each other */
+  .column {
+      float: right;
+      width: 300px;
+      padding: 10px;
+      height: 230 px;
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+      content: "";
+      display: table;
+      clear: both;
+  }
+  </style>
+
+</head>
+
+<body>
+
+  <style>
+  p {
+    font-size:17px;
+  }
+  h2 {
+    font-size:20px;
+  }
+
+  p2 {
+    font-size:17px;
+  }
+  </style>
+
+<img src="1.jpg" alt=1 style="width:450px; height:220px";>
+
+
+<!-- <div class="row"> -->
+  <div class="column" style="background-color:#7B9EB8;">
+    <h2>About Us </h2>
+    <!-- <img src="\Users\Girls Who Code\Desktop/1.jpg" alt=1 style ="width:300x; height:210px"> -->
+    <p> Our names are Reanna, Maria, Sierra and Christina we are the founders of unified. We created unified so that people going through the immigration proccess may find the resources that they need in the easiest way.  </p>
+
+  </div>
+
+  <div class="contact" style="background-color:#91B3CD;">
+    <h2>Contact Us</h2>
+    <p2>unified.immigration@gmail.com <p2>
+  </div>
+
+  <style>
+  h2 {
+    font-family: 'Abril Fatface', cursive;
+  }
+  </style>
+
+
+</body>
+</html>
