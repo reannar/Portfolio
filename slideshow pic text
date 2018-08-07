@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Neucha" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+h4{
+  font-family: 'Neucha', cursive;
+  font-size: 25px
+
+}
+
+.container {
+    position: relative;
+    font-family: Arial;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 60px;
+    right: 2px;
+    /* background-color: black; */
+    color: black;
+    padding-left: 40px;
+    padding-right: 200px;
+}
+</style>
+</head>
+<body>
+
+
+
+<div class="container">
+  <img src="joined.jpg" alt="joinedhands" style="width:100%;">
+  <div class="text-block">
+    <h4>A site that helps those going through the immigration process or are currently undocumented to gain knowledge about their rights, immigration law firms, citizenship process, and ICE.
+</h4>
+
+  </div>
+</div>
+
+</body>
+</html>
